@@ -1,7 +1,6 @@
 # SmartGrid-GA-Optimization
 
 This project is about improving how electricity is shared across Nepal’s smart grid — which is a modern, technology-based system for managing power throughout the country. It uses a Genetic Algorithm, a technique inspired by nature’s way of evolving solutions, to find the best plan for sending energy from different sources to where it’s needed at every hour.
-
 The goal is to make sure that:
 
     •	Electricity demand in different parts of Nepal is met on time.
